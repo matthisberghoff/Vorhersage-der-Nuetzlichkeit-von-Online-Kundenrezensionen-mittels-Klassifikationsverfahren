@@ -17,7 +17,9 @@ Kundenrezensionen identifizieren lassen, damit sie den potenziellen Kunden angez
 werden können. Neben dem Kundennutzen, können auch die Händler beziehungsweise
 Verkäufer oder Hersteller der Produkte von qualitativ hochwertigen Rezensionen
 profitieren, indem sie das dadurch gewonnene Feedback zum Beispiel für die
-Weiterentwicklung ihrer Produkte nutzen. Das Ziel dieser Arbeit ist es, mittels
+Weiterentwicklung ihrer Produkte nutzen. 
+
+Das Ziel dieser Arbeit ist es, mittels
 Klassifikationsverfahren die Nützlichkeit Deutschsprachigen Online-
 Kundenrezensionen vorherzusagen. Dabei sollen die Vorhersagegenauigkeiten
 verschiedener gängiger Klassifikationsalgorithmen miteinander verglichen werden.
